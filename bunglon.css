@@ -146,7 +146,7 @@ margin: 0 auto;
   padding: 2px;
   width: 600px;
 
-  margin: 8px 50px;
+  margin: 9px 50px;
   
   /* line-height: 50px; */
   color: white;
@@ -248,7 +248,7 @@ margin: 0 auto;
   /* background: tomato; */
   padding: 5px;
   width: 450px;
- margin : 15px 30px; 
+ margin : 22px 30px; 
   color: white;
   font-weight: bold;
   font-size: 1em;
@@ -344,7 +344,7 @@ thead {
     /* background-color: blue; */
     padding: 10px;
     width: 300px;
-    margin: 30px 150px;
+    margin: 35px 150px;
 
   }
 
@@ -424,7 +424,7 @@ span.psw {
 
   .webmail{
   display:block;
-  margin: 20px 150px;
+  margin: 28px 150px;
 }
 
 .webmail  input {
